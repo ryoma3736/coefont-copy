@@ -1,0 +1,167 @@
+{
+  "loginFormElements": {
+    "inputs": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email"
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "Password"
+      }
+    ],
+    "buttons": [
+      {
+        "type": "submit",
+        "text": "Top"
+      },
+      {
+        "type": "submit",
+        "text": "Log in with Google"
+      },
+      {
+        "type": "submit",
+        "text": "Log in with Apple"
+      },
+      {
+        "type": "submit",
+        "text": "Log in with Facebook"
+      },
+      {
+        "type": "submit",
+        "text": ""
+      },
+      {
+        "type": "submit",
+        "text": "Log in"
+      },
+      {
+        "type": "button",
+        "text": "English"
+      }
+    ]
+  },
+  "cookies": [
+    {
+      "name": "default_locale",
+      "domain": "coefont.cloud",
+      "path": "/",
+      "httpOnly": false,
+      "secure": false,
+      "value": "en"
+    },
+    {
+      "name": "csrf",
+      "domain": "coefont.cloud",
+      "path": "/",
+      "httpOnly": false,
+      "secure": true,
+      "value": "34813021-b745-4f7e-aec4-70123981970a"
+    },
+    {
+      "name": "NEXT_REGION",
+      "domain": "coefont.cloud",
+      "path": "/",
+      "httpOnly": false,
+      "secure": false,
+      "value": "JP"
+    },
+    {
+      "name": "ph_phc_VBHTbmpQBQyalQTeWzluM1JqP2rLOVkvfC1n6AnYlkN_posthog",
+      "domain": ".coefont.cloud",
+      "path": "/",
+      "httpOnly": false,
+      "secure": true,
+      "value": "%7B%22distinct_id%22%3A%22019ac8ba-9cc5-79f6-ae9b-"
+    },
+    {
+      "name": "_ga",
+      "domain": ".coefont.cloud",
+      "path": "/",
+      "httpOnly": false,
+      "secure": false,
+      "value": "GA1.1.1754703794.1764304264"
+    },
+    {
+      "name": "_ga_1470KMBK3P",
+      "domain": ".coefont.cloud",
+      "path": "/",
+      "httpOnly": false,
+      "secure": false,
+      "value": "GS2.1.s1764304264$o1$g0$t1764304264$j60$l0$h114813"
+    },
+    {
+      "name": "NEXT_LOCALE",
+      "domain": "coefont.cloud",
+      "path": "/",
+      "httpOnly": false,
+      "secure": false,
+      "value": "ja"
+    },
+    {
+      "name": "m",
+      "domain": "m.stripe.com",
+      "path": "/",
+      "httpOnly": true,
+      "secure": true,
+      "value": "e5459b54-3e52-4471-949e-145eb4797d1785efd0"
+    },
+    {
+      "name": "__stripe_mid",
+      "domain": ".coefont.cloud",
+      "path": "/",
+      "httpOnly": false,
+      "secure": true,
+      "value": "d567af34-5d9e-4bbf-aff5-ae090171b5288761d0"
+    },
+    {
+      "name": "__stripe_sid",
+      "domain": ".coefont.cloud",
+      "path": "/",
+      "httpOnly": false,
+      "secure": true,
+      "value": "9efdc98b-6531-4386-accc-ebff8144a79b0b73dd"
+    },
+    {
+      "name": "_dd_s",
+      "domain": "coefont.cloud",
+      "path": "/",
+      "httpOnly": false,
+      "secure": false,
+      "value": "aid=57ddba52-8dbc-4759-8985-e4e27c663952&rum=0&exp"
+    },
+    {
+      "name": "__Host-GAPS",
+      "domain": "accounts.google.com",
+      "path": "/",
+      "httpOnly": true,
+      "secure": true,
+      "value": "1:Bi1b15PS5HHVFhlRYVKvC4eQ4fArxw:pA1by7YXWW4zLdT-"
+    },
+    {
+      "name": "OTZ",
+      "domain": "accounts.google.com",
+      "path": "/",
+      "httpOnly": false,
+      "secure": true,
+      "value": "8366671_20_20__20_"
+    },
+    {
+      "name": "NID",
+      "domain": ".google.com",
+      "path": "/",
+      "httpOnly": true,
+      "secure": true,
+      "value": "526=RdQ5nkKve_fSXfcJks4y941kKPxBdU_TJB-faTqsbbJ5RV"
+    }
+  ],
+  "localStorage": {
+    "ph_phc_VBHTbmpQBQyalQTeWzluM1JqP2rLOVkvfC1n6AnYlkN_posthog": "{\"$initialization_time\":\"2025-11-28T04:31:04.388Z\",\"$configured_session_timeout_ms\":1800000,\"$sesid\":[1764304264389,\"019ac8ba-9cc5-79f6-ae9b-ad3a760550e6\",1764304264389],\"$client_session_props\":{\"sess"
+  },
+  "success": false,
+  "currentUrl": "https://coefont.cloud/login"
+}

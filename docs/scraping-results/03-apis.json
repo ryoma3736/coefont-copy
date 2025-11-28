@@ -1,0 +1,547 @@
+[
+  {
+    "method": "DELETE",
+    "url": "https://coefont.cloud/api/auth/session",
+    "headers": {
+      "sentry-trace": "101548997ea8310c43db8a5a0c8d3663-95e1d960aef323fe-0",
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://coefont.cloud/login",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "baggage": "sentry-environment=vercel-production,sentry-release=coefont-frontend%40v2025.11.28.1200,sentry-public_key=89c3cc2853fa73307cfa300385bca012,sentry-trace_id=101548997ea8310c43db8a5a0c8d3663,sentry-sampled=false,sentry-sample_rand=0.2634972390407422,sentry-sample_rate=0.05"
+    },
+    "postData": null,
+    "timestamp": "2025-11-28T04:31:04.418Z",
+    "response": {
+      "status": 204,
+      "headers": {
+        "strict-transport-security": "max-age=63072000",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "MISS",
+        "x-matched-path": "/api/auth/session",
+        "date": "Fri, 28 Nov 2025 04:31:04 GMT",
+        "vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Next-Router-Segment-Prefetch",
+        "server": "Vercel",
+        "x-vercel-id": "hnd1::hnd1::8xf4d-1764304264524-ad9b359481e7"
+      },
+      "body": ""
+    }
+  },
+  {
+    "method": "GET",
+    "url": "https://identitytoolkit.googleapis.com/v1/projects?key=AIzaSyB6hVR2Wd56drainYJpkO_slko5GMPIrtY",
+    "headers": {
+      "x-firebase-client": "eyJ2ZXJzaW9uIjoyLCJoZWFydGJlYXRzIjpbeyJhZ2VudCI6ImZpcmUtY29yZS8wLjEwLjE0IGZpcmUtY29yZS1lc20yMDE3LzAuMTAuMTQgZmlyZS1qcy8gZmlyZS1qcy1hbGwtYXBwLzExLjAuMCBmaXJlLWF1dGgvMS44LjAgZmlyZS1hdXRoLWVzbTIwMTcvMS44LjAgZmlyZS1paWQvMC42LjEwIGZpcmUtaWlkLWVzbTIwMTcvMC42LjEwIGZpcmUtcmMvMC40LjEwIGZpcmUtcmMtZXNtMjAxNy8wLjQuMTAiLCJkYXRlcyI6WyIyMDI1LTExLTI4Il19XX0",
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "x-firebase-gmpid": "1:299026383647:web:d38b657b037fe17c12662a",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "x-client-version": "Chrome/JsCore/11.0.0/FirebaseCore-web",
+      "content-type": "application/json"
+    },
+    "postData": null,
+    "timestamp": "2025-11-28T04:31:09.136Z",
+    "response": {
+      "status": 200,
+      "headers": {
+        "cache-control": "no-cache, no-store, max-age=0, must-revalidate",
+        "access-control-expose-headers": "date,vary,vary,vary,content-encoding,server,content-length",
+        "content-encoding": "gzip",
+        "pragma": "no-cache",
+        "x-content-type-options": "nosniff",
+        "expires": "Mon, 01 Jan 1990 00:00:00 GMT",
+        "access-control-allow-origin": "https://coefont.cloud",
+        "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+        "content-length": "147",
+        "date": "Fri, 28 Nov 2025 04:31:09 GMT",
+        "x-xss-protection": "0",
+        "content-type": "application/json; charset=UTF-8",
+        "vary": "Origin, X-Origin, Referer",
+        "server": "ESF",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "body": "{\n  \"projectId\": \"299026383647\",\n  \"authorizedDomains\": [\n    \"localhost\",\n    \"coefont-corporate.firebaseapp.com\",\n    \"coefont-corporate.web.app\",\n    \"coefont.cloud\",\n    \"corporate.coefont.cloud\"\n  ]\n}\n"
+    }
+  },
+  {
+    "method": "DELETE",
+    "url": "https://coefont.cloud/api/auth/session",
+    "headers": {
+      "sentry-trace": "1a3682e2fbfae102e2e21ab9176e94e1-b4ac2ea6af931b43-0",
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://coefont.cloud/login?route=%2Fhome",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "baggage": "sentry-environment=vercel-production,sentry-release=coefont-frontend%40v2025.11.28.1200,sentry-public_key=89c3cc2853fa73307cfa300385bca012,sentry-trace_id=1a3682e2fbfae102e2e21ab9176e94e1,sentry-sampled=false,sentry-sample_rand=0.5812353348722066,sentry-sample_rate=0.05"
+    },
+    "postData": null,
+    "timestamp": "2025-11-28T04:31:27.914Z",
+    "response": {
+      "status": 204,
+      "headers": {
+        "strict-transport-security": "max-age=63072000",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "MISS",
+        "x-matched-path": "/api/auth/session",
+        "date": "Fri, 28 Nov 2025 04:31:28 GMT",
+        "vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Next-Router-Segment-Prefetch",
+        "server": "Vercel",
+        "x-vercel-id": "hnd1::hnd1::pr7b7-1764304288023-3df971042127"
+      },
+      "body": ""
+    }
+  },
+  {
+    "method": "DELETE",
+    "url": "https://coefont.cloud/api/auth/session",
+    "headers": {
+      "sentry-trace": "10f07b44f316b1035b0b617162462594-8c2994a5e96ee5c3-0",
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://coefont.cloud/dashboard",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "baggage": "sentry-environment=vercel-production,sentry-release=coefont-frontend%40v2025.11.28.1200,sentry-public_key=89c3cc2853fa73307cfa300385bca012,sentry-trace_id=10f07b44f316b1035b0b617162462594,sentry-sampled=false,sentry-sample_rand=0.6409292953879442,sentry-sample_rate=0.05"
+    },
+    "postData": null,
+    "timestamp": "2025-11-28T04:31:31.363Z",
+    "response": {
+      "status": 204,
+      "headers": {
+        "strict-transport-security": "max-age=63072000",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "MISS",
+        "x-matched-path": "/api/auth/session",
+        "date": "Fri, 28 Nov 2025 04:31:31 GMT",
+        "vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Next-Router-Segment-Prefetch",
+        "server": "Vercel",
+        "x-vercel-id": "hnd1::hnd1::27pm2-1764304291485-5d047553c7e6"
+      },
+      "body": ""
+    }
+  },
+  {
+    "method": "DELETE",
+    "url": "https://coefont.cloud/api/auth/session",
+    "headers": {
+      "sentry-trace": "c68e15373f007b096cb6ad2a80ee71a6-9bbe8db4fe1dbeaf-0",
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://coefont.cloud/studio",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "baggage": "sentry-environment=vercel-production,sentry-release=coefont-frontend%40v2025.11.28.1200,sentry-public_key=89c3cc2853fa73307cfa300385bca012,sentry-trace_id=c68e15373f007b096cb6ad2a80ee71a6,sentry-sampled=false,sentry-sample_rand=0.4344132558564944,sentry-sample_rate=0.05"
+    },
+    "postData": null,
+    "timestamp": "2025-11-28T04:31:34.399Z",
+    "response": {
+      "status": 204,
+      "headers": {
+        "strict-transport-security": "max-age=63072000",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "MISS",
+        "x-matched-path": "/api/auth/session",
+        "date": "Fri, 28 Nov 2025 04:31:34 GMT",
+        "vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Next-Router-Segment-Prefetch",
+        "server": "Vercel",
+        "x-vercel-id": "hnd1::hnd1::2r2tv-1764304294496-826ef748cd19"
+      },
+      "body": ""
+    }
+  },
+  {
+    "method": "DELETE",
+    "url": "https://coefont.cloud/api/auth/session",
+    "headers": {
+      "sentry-trace": "0406da53e3da04a3f5c3b224e18529ef-b9189c7aebfb945c-0",
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://coefont.cloud/fonts",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "baggage": "sentry-environment=vercel-production,sentry-release=coefont-frontend%40v2025.11.28.1200,sentry-public_key=89c3cc2853fa73307cfa300385bca012,sentry-trace_id=0406da53e3da04a3f5c3b224e18529ef,sentry-sampled=false,sentry-sample_rand=0.7923209511556764,sentry-sample_rate=0.05"
+    },
+    "postData": null,
+    "timestamp": "2025-11-28T04:31:37.472Z",
+    "response": {
+      "status": 204,
+      "headers": {
+        "strict-transport-security": "max-age=63072000",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "MISS",
+        "x-matched-path": "/api/auth/session",
+        "date": "Fri, 28 Nov 2025 04:31:37 GMT",
+        "vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Next-Router-Segment-Prefetch",
+        "server": "Vercel",
+        "x-vercel-id": "hnd1::hnd1::jjzzf-1764304297571-39ef0769cb8e"
+      },
+      "body": ""
+    }
+  },
+  {
+    "method": "DELETE",
+    "url": "https://coefont.cloud/api/auth/session",
+    "headers": {
+      "sentry-trace": "c6f9ade6e75438dfdaf991f61e897046-9378bd318fbbd47d-0",
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://coefont.cloud/mypage",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "baggage": "sentry-environment=vercel-production,sentry-release=coefont-frontend%40v2025.11.28.1200,sentry-public_key=89c3cc2853fa73307cfa300385bca012,sentry-trace_id=c6f9ade6e75438dfdaf991f61e897046,sentry-sampled=false,sentry-sample_rand=0.18784892018878718,sentry-sample_rate=0.05"
+    },
+    "postData": null,
+    "timestamp": "2025-11-28T04:31:40.538Z",
+    "response": {
+      "status": 204,
+      "headers": {
+        "strict-transport-security": "max-age=63072000",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "MISS",
+        "x-matched-path": "/api/auth/session",
+        "date": "Fri, 28 Nov 2025 04:31:40 GMT",
+        "vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Next-Router-Segment-Prefetch",
+        "server": "Vercel",
+        "x-vercel-id": "hnd1::hnd1::7f4xg-1764304300664-a14400297e0d"
+      },
+      "body": ""
+    }
+  },
+  {
+    "method": "DELETE",
+    "url": "https://coefont.cloud/api/auth/session",
+    "headers": {
+      "sentry-trace": "f7a32d0f55c6d23f1c37597c90a4a9b2-b3c0184158f4e40c-0",
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://coefont.cloud/settings",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "baggage": "sentry-environment=vercel-production,sentry-release=coefont-frontend%40v2025.11.28.1200,sentry-public_key=89c3cc2853fa73307cfa300385bca012,sentry-trace_id=f7a32d0f55c6d23f1c37597c90a4a9b2,sentry-sampled=false,sentry-sample_rand=0.5446621216784469,sentry-sample_rate=0.05"
+    },
+    "postData": null,
+    "timestamp": "2025-11-28T04:31:43.645Z",
+    "response": {
+      "status": 204,
+      "headers": {
+        "strict-transport-security": "max-age=63072000",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "MISS",
+        "x-matched-path": "/api/auth/session",
+        "date": "Fri, 28 Nov 2025 04:31:43 GMT",
+        "vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Next-Router-Segment-Prefetch",
+        "server": "Vercel",
+        "x-vercel-id": "hnd1::hnd1::bsk97-1764304303747-981d50e2268d"
+      },
+      "body": ""
+    }
+  },
+  {
+    "method": "DELETE",
+    "url": "https://coefont.cloud/api/auth/session",
+    "headers": {
+      "sentry-trace": "a3540c04c233c48eedfcd719b4a91136-837c311727a9fb66-0",
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://coefont.cloud/pricing",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "baggage": "sentry-environment=vercel-production,sentry-release=coefont-frontend%40v2025.11.28.1200,sentry-public_key=89c3cc2853fa73307cfa300385bca012,sentry-trace_id=a3540c04c233c48eedfcd719b4a91136,sentry-sampled=false,sentry-sample_rand=0.17322688785033513,sentry-sample_rate=0.05"
+    },
+    "postData": null,
+    "timestamp": "2025-11-28T04:31:46.683Z",
+    "response": {
+      "status": 204,
+      "headers": {
+        "strict-transport-security": "max-age=63072000",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "MISS",
+        "x-matched-path": "/api/auth/session",
+        "date": "Fri, 28 Nov 2025 04:31:46 GMT",
+        "vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Next-Router-Segment-Prefetch",
+        "server": "Vercel",
+        "x-vercel-id": "hnd1::hnd1::tn6z7-1764304306782-1a633b9767a9"
+      },
+      "body": ""
+    }
+  },
+  {
+    "method": "DELETE",
+    "url": "https://coefont.cloud/api/auth/session",
+    "headers": {
+      "sentry-trace": "f9c7d433186796466e25fb1ff4f9b705-aa4a6e8f082e75f2-1",
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://coefont.cloud/help",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "baggage": "sentry-environment=vercel-production,sentry-release=coefont-frontend%40v2025.11.28.1200,sentry-public_key=89c3cc2853fa73307cfa300385bca012,sentry-trace_id=f9c7d433186796466e25fb1ff4f9b705,sentry-transaction=GET%20%2F_not-found,sentry-sampled=true,sentry-sample_rand=0.04401094540716888,sentry-sample_rate=0.05"
+    },
+    "postData": null,
+    "timestamp": "2025-11-28T04:31:49.609Z",
+    "response": {
+      "status": 204,
+      "headers": {
+        "strict-transport-security": "max-age=63072000",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "MISS",
+        "x-matched-path": "/api/auth/session",
+        "date": "Fri, 28 Nov 2025 04:31:49 GMT",
+        "vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Next-Router-Segment-Prefetch",
+        "server": "Vercel",
+        "x-vercel-id": "hnd1::hnd1::pbvx9-1764304309715-26f47a74239f"
+      },
+      "body": ""
+    }
+  },
+  {
+    "method": "DELETE",
+    "url": "https://coefont.cloud/api/auth/session",
+    "headers": {
+      "sentry-trace": "cbaa2709e86fde828a4b8753163bfae8-97a39d8ea9080f78-0",
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://coefont.cloud/terms",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "baggage": "sentry-environment=vercel-production,sentry-release=coefont-frontend%40v2025.11.28.1200,sentry-public_key=89c3cc2853fa73307cfa300385bca012,sentry-trace_id=cbaa2709e86fde828a4b8753163bfae8,sentry-sampled=false,sentry-sample_rand=0.15886289553998156,sentry-sample_rate=0.05"
+    },
+    "postData": null,
+    "timestamp": "2025-11-28T04:31:52.716Z",
+    "response": {
+      "status": 204,
+      "headers": {
+        "strict-transport-security": "max-age=63072000",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "MISS",
+        "x-matched-path": "/api/auth/session",
+        "date": "Fri, 28 Nov 2025 04:31:52 GMT",
+        "vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Next-Router-Segment-Prefetch",
+        "server": "Vercel",
+        "x-vercel-id": "hnd1::hnd1::pq4ts-1764304312849-02706c37ba31"
+      },
+      "body": ""
+    }
+  },
+  {
+    "method": "DELETE",
+    "url": "https://coefont.cloud/api/auth/session",
+    "headers": {
+      "sentry-trace": "5c5597f4990febef6856a75abed0a69f-92644176eda2d59e-0",
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://coefont.cloud/privacy",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "baggage": "sentry-environment=vercel-production,sentry-release=coefont-frontend%40v2025.11.28.1200,sentry-public_key=89c3cc2853fa73307cfa300385bca012,sentry-trace_id=5c5597f4990febef6856a75abed0a69f,sentry-sampled=false,sentry-sample_rand=0.4441718641671022,sentry-sample_rate=0.05"
+    },
+    "postData": null,
+    "timestamp": "2025-11-28T04:31:55.696Z",
+    "response": {
+      "status": 204,
+      "headers": {
+        "strict-transport-security": "max-age=63072000",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "MISS",
+        "x-matched-path": "/api/auth/session",
+        "date": "Fri, 28 Nov 2025 04:31:55 GMT",
+        "vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Next-Router-Segment-Prefetch",
+        "server": "Vercel",
+        "x-vercel-id": "hnd1::hnd1::xr86f-1764304315826-4ba762d010f1"
+      },
+      "body": ""
+    }
+  },
+  {
+    "method": "DELETE",
+    "url": "https://coefont.cloud/api/auth/session",
+    "headers": {
+      "sentry-trace": "ecd10f05538830ceda9aa0cb505dfbb2-a49c66d1c1f9c64a-0",
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://coefont.cloud/contact",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "baggage": "sentry-environment=vercel-production,sentry-release=coefont-frontend%40v2025.11.28.1200,sentry-public_key=89c3cc2853fa73307cfa300385bca012,sentry-trace_id=ecd10f05538830ceda9aa0cb505dfbb2,sentry-sampled=false,sentry-sample_rand=0.2454193476966351,sentry-sample_rate=0.05"
+    },
+    "postData": null,
+    "timestamp": "2025-11-28T04:31:58.765Z",
+    "response": {
+      "status": 204,
+      "headers": {
+        "strict-transport-security": "max-age=63072000",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "MISS",
+        "x-matched-path": "/api/auth/session",
+        "date": "Fri, 28 Nov 2025 04:31:58 GMT",
+        "vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Next-Router-Segment-Prefetch",
+        "server": "Vercel",
+        "x-vercel-id": "hnd1::hnd1::lcqlv-1764304318896-ff5b4b73b5b8"
+      },
+      "body": ""
+    }
+  },
+  {
+    "method": "DELETE",
+    "url": "https://coefont.cloud/api/auth/session",
+    "headers": {
+      "sentry-trace": "7cbabf3cee20b34adbe166929e0c9f57-ac5c0e0b4cbfe860-0",
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://coefont.cloud/sso?route=%2Fhome",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "baggage": "sentry-environment=vercel-production,sentry-release=coefont-frontend%40v2025.11.28.1200,sentry-public_key=89c3cc2853fa73307cfa300385bca012,sentry-trace_id=7cbabf3cee20b34adbe166929e0c9f57,sentry-sampled=false,sentry-sample_rand=0.37214268495407854,sentry-sample_rate=0.05"
+    },
+    "postData": null,
+    "timestamp": "2025-11-28T04:32:02.007Z",
+    "response": {
+      "status": 204,
+      "headers": {
+        "strict-transport-security": "max-age=63072000",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "MISS",
+        "x-matched-path": "/api/auth/session",
+        "date": "Fri, 28 Nov 2025 04:32:02 GMT",
+        "vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Next-Router-Segment-Prefetch",
+        "server": "Vercel",
+        "x-vercel-id": "hnd1::hnd1::645l9-1764304322109-276999dc50f8"
+      },
+      "body": ""
+    }
+  },
+  {
+    "method": "DELETE",
+    "url": "https://coefont.cloud/api/auth/session",
+    "headers": {
+      "sentry-trace": "a2fb39985fc535ad0c506fe2fc42c55f-88cd4c595dfdd12d-0",
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://coefont.cloud/resetPassword",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "baggage": "sentry-environment=vercel-production,sentry-release=coefont-frontend%40v2025.11.28.1200,sentry-public_key=89c3cc2853fa73307cfa300385bca012,sentry-trace_id=a2fb39985fc535ad0c506fe2fc42c55f,sentry-sampled=false,sentry-sample_rand=0.2579233283569373,sentry-sample_rate=0.05"
+    },
+    "postData": null,
+    "timestamp": "2025-11-28T04:32:05.435Z",
+    "response": {
+      "status": 204,
+      "headers": {
+        "strict-transport-security": "max-age=63072000",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "MISS",
+        "x-matched-path": "/api/auth/session",
+        "date": "Fri, 28 Nov 2025 04:32:05 GMT",
+        "vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Next-Router-Segment-Prefetch",
+        "server": "Vercel",
+        "x-vercel-id": "hnd1::hnd1::26ks9-1764304325547-7989b1ce4f58"
+      },
+      "body": ""
+    }
+  },
+  {
+    "method": "DELETE",
+    "url": "https://coefont.cloud/api/auth/session",
+    "headers": {
+      "sentry-trace": "ff6a5ef798db964822f7bc8a428043f1-97b7d0fc091c8d84-0",
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://coefont.cloud/selectPlan?route=%2Fhome",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "baggage": "sentry-environment=vercel-production,sentry-release=coefont-frontend%40v2025.11.28.1200,sentry-public_key=89c3cc2853fa73307cfa300385bca012,sentry-trace_id=ff6a5ef798db964822f7bc8a428043f1,sentry-sampled=false,sentry-sample_rand=0.08774381410637289,sentry-sample_rate=0.05"
+    },
+    "postData": null,
+    "timestamp": "2025-11-28T04:32:08.562Z",
+    "response": {
+      "status": 204,
+      "headers": {
+        "strict-transport-security": "max-age=63072000",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "MISS",
+        "x-matched-path": "/api/auth/session",
+        "date": "Fri, 28 Nov 2025 04:32:08 GMT",
+        "vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Next-Router-Segment-Prefetch",
+        "server": "Vercel",
+        "x-vercel-id": "hnd1::hnd1::lsmrt-1764304328666-8f6d374910d8"
+      },
+      "body": ""
+    }
+  },
+  {
+    "method": "GET",
+    "url": "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js",
+    "headers": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://www.youtube.com/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "postData": null,
+    "timestamp": "2025-11-28T04:32:09.724Z",
+    "response": {
+      "status": 200,
+      "headers": {
+        "content-encoding": "gzip",
+        "report-to": "{\"group\":\"cloudview\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/cloudview\"}]}",
+        "x-content-type-options": "nosniff",
+        "expires": "Fri, 28 Nov 2025 04:32:09 GMT",
+        "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+        "date": "Fri, 28 Nov 2025 04:32:09 GMT",
+        "content-type": "text/javascript",
+        "vary": "Accept-Encoding",
+        "last-modified": "Tue, 16 Feb 2021 23:57:06 GMT",
+        "cache-control": "private, max-age=3000",
+        "cross-origin-opener-policy": "same-origin; report-to=\"cloudview\"",
+        "cross-origin-resource-policy": "cross-origin",
+        "content-security-policy-report-only": "require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/cloudview",
+        "accept-ranges": "bytes",
+        "content-length": "2007",
+        "x-xss-protection": "0",
+        "server": "sffe"
+      },
+      "body": "(function(){/*\n\n Copyright The Closure Library Authors.\n SPDX-License-Identifier: Apache-2.0\n*/\n'use strict';var l=function(){var a=h,b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}},m=this||self,n=/^[\\w+/_-]+[=]{0,2}$/,p=null,q=function(a){return(a=a.querySelector&&a.querySelector(\"script[nonce]\"))&&(a=a.nonce||a.getAttribute(\"nonce\"))&&n.test(a)?a:\"\"},r=function(a,b){function e(){}e.prototype=b.prototype;a.i=b.prototype;a.prototype=new e;a.prototype.constructor=a;a.h=function(c,g,k){for(var f=Array(arguments.length-2),d=2;d<arguments.length;d++)f[d-2]=arguments[d];\nreturn b.prototype[g].apply(c,f)}},t=function(a){return a};function u(a){if(Error.captureStackTrace)Error.captureStackTrace(this,u);else{var b=Error().stack;b&&(this.stack=b)}a&&(this.message=String(a))}r(u,Error);u.prototype.name=\"CustomError\";var v=function(a,b){a=a.split(\"%s\");for(var e=\"\",c=a.length-1,g=0;g<c;g++)e+=a[g]+(g<b.length?b[g]:\"%s\");u.call(this,e+a[c])};r(v,u);v.prototype.name=\"AssertionError\";var w=function(a,b){throw new v(\"Failure\"+(a?\": \"+a:\"\"),Array.prototype.slice.call(arguments,1));};var x;var A=function(a,b){this.g=b===z?a:\"\"};A.prototype.toString=function(){return this.g+\"\"};var z={};var B=function(){var a=window.navigator.userAgent.match(/Chrome\\/([0-9]+)/);return a?parseInt(a[1],10):0},C=function(a){return!!document.currentScript&&(-1!=document.currentScript.src.indexOf(\"?\"+a)||-1!=document.currentScript.src.indexOf(\"&\"+a))},D=function(){return\"function\"==typeof window.__onGCastApiAvailable?window.__onGCastApiAvailable:null},F=function(a){a.length?E(a.shift(),function(){F(a)}):G()},H=function(a){return\"chrome-extension://\"+a+\"/cast_sender.js\"},E=function(a,b,e){var c=document.createElement(\"script\");\nc.onerror=b;e&&(c.onload=e);if(void 0===x)if(b=null,(e=m.trustedTypes)&&e.createPolicy){try{b=e.createPolicy(\"goog#html\",{createHTML:t,createScript:t,createScriptURL:t})}catch(y){m.console&&m.console.error(y.message)}x=b}else x=b;a=(b=x)?b.createScriptURL(a):a;a=new A(a,z);a:{try{var g=c&&c.ownerDocument,k=g&&(g.defaultView||g.parentWindow);k=k||m;if(k.Element&&k.Location){var f=k;break a}}catch(y){}f=null}if(f&&\"undefined\"!=typeof f.HTMLScriptElement&&(!c||!(c instanceof f.HTMLScriptElement)&&(c instanceof\nf.Location||c instanceof f.Element))){f=typeof c;if(\"object\"==f&&null!=c||\"function\"==f)try{var d=c.constructor.displayName||c.constructor.name||Object.prototype.toString.call(c)}catch(y){d=\"<object could not be stringified>\"}else d=void 0===c?\"undefined\":null===c?\"null\":typeof c;w(\"Argument is not a %s (or a non-Element, non-Location mock); got: %s\",\"HTMLScriptElement\",d)}a instanceof A&&a.constructor===A?d=a.g:(d=typeof a,w(\"expected object of type TrustedResourceUrl, got '\"+a+\"' of type \"+(\"object\"!=\nd?d:a?Array.isArray(a)?\"array\":d:\"null\")),d=\"type_error:TrustedResourceUrl\");c.src=d;(d=c.ownerDocument&&c.ownerDocument.defaultView)&&d!=m?d=q(d.document):(null===p&&(p=q(m.document)),d=p);d&&c.setAttribute(\"nonce\",d);(document.head||document.documentElement).appendChild(c)},I=function(){var a=B(),b=[];if(1<a){var e=a-1;b.push(\"//www.gstatic.com/eureka/clank/\"+a+\"/cast_sender.js\");b.push(\"//www.gstatic.com/eureka/clank/\"+e+\"/cast_sender.js\")}return b},G=function(){var a=D();a&&a(!1,\"No cast extension found\")},\nK=function(){if(J){var a=2,b=D(),e=function(){a--;0==a&&b&&b(!0)};window.__onGCastApiAvailable=e;E(\"//www.gstatic.com/cast/sdk/libs/sender/1.0/cast_framework.js\",G,e)}},J=C(\"loadCastFramework\")||C(\"loadCastApplicationFramework\"),L=[\"pkedcjkdefgpdelpbcmbmeomcjbeemfm\",\"enhhojjnijigcajfphajepfemndkmdlo\"];if(0<=window.navigator.userAgent.indexOf(\"Android\")&&0<=window.navigator.userAgent.indexOf(\"Chrome/\")&&window.navigator.presentation){if(60<=B()){K();var M=I();M.push(\"//www.gstatic.com/eureka/clank/cast_sender.js\");F(M)}}else if(!window.chrome||!window.navigator.presentation||0<=window.navigator.userAgent.indexOf(\"Edge\"))G();else if(89<=B()){K();var N=I(),O=N.push,P=O.apply,h=L.map(H),Q;if(h instanceof Array)Q=h;else{var R,S=\"undefined\"!=typeof Symbol&&Symbol.iterator&&h[Symbol.iterator];R=S?S.call(h):\n{next:l()};for(var T,U=[];!(T=R.next()).done;)U.push(T.value);Q=U}P.call(O,N,Q);N.push(\"//www.gstatic.com/eureka/clank/cast_sender.js\");F(N)}else K(),F(L.map(H));}).call(this);\n"
+    }
+  },
+  {
+    "method": "GET",
+    "url": "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js",
+    "headers": {
+      "sec-ch-ua-platform": "\"macOS\"",
+      "referer": "https://www.youtube.com/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "postData": null,
+    "timestamp": "2025-11-28T04:32:09.726Z",
+    "response": {
+      "status": 200,
+      "headers": {
+        "content-encoding": "gzip",
+        "report-to": "{\"group\":\"cloudview\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/cloudview\"}]}",
+        "x-content-type-options": "nosniff",
+        "expires": "Fri, 28 Nov 2025 04:32:09 GMT",
+        "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+        "date": "Fri, 28 Nov 2025 04:32:09 GMT",
+        "content-type": "text/javascript",
+        "vary": "Accept-Encoding",
+        "last-modified": "Tue, 16 Feb 2021 23:57:06 GMT",
+        "cache-control": "private, max-age=3000",
+        "cross-origin-opener-policy": "same-origin; report-to=\"cloudview\"",
+        "cross-origin-resource-policy": "cross-origin",
+        "content-security-policy-report-only": "require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/cloudview",
+        "accept-ranges": "bytes",
+        "content-length": "2007",
+        "x-xss-protection": "0",
+        "server": "sffe"
+      },
+      "body": "(function(){/*\n\n Copyright The Closure Library Authors.\n SPDX-License-Identifier: Apache-2.0\n*/\n'use strict';var l=function(){var a=h,b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}},m=this||self,n=/^[\\w+/_-]+[=]{0,2}$/,p=null,q=function(a){return(a=a.querySelector&&a.querySelector(\"script[nonce]\"))&&(a=a.nonce||a.getAttribute(\"nonce\"))&&n.test(a)?a:\"\"},r=function(a,b){function e(){}e.prototype=b.prototype;a.i=b.prototype;a.prototype=new e;a.prototype.constructor=a;a.h=function(c,g,k){for(var f=Array(arguments.length-2),d=2;d<arguments.length;d++)f[d-2]=arguments[d];\nreturn b.prototype[g].apply(c,f)}},t=function(a){return a};function u(a){if(Error.captureStackTrace)Error.captureStackTrace(this,u);else{var b=Error().stack;b&&(this.stack=b)}a&&(this.message=String(a))}r(u,Error);u.prototype.name=\"CustomError\";var v=function(a,b){a=a.split(\"%s\");for(var e=\"\",c=a.length-1,g=0;g<c;g++)e+=a[g]+(g<b.length?b[g]:\"%s\");u.call(this,e+a[c])};r(v,u);v.prototype.name=\"AssertionError\";var w=function(a,b){throw new v(\"Failure\"+(a?\": \"+a:\"\"),Array.prototype.slice.call(arguments,1));};var x;var A=function(a,b){this.g=b===z?a:\"\"};A.prototype.toString=function(){return this.g+\"\"};var z={};var B=function(){var a=window.navigator.userAgent.match(/Chrome\\/([0-9]+)/);return a?parseInt(a[1],10):0},C=function(a){return!!document.currentScript&&(-1!=document.currentScript.src.indexOf(\"?\"+a)||-1!=document.currentScript.src.indexOf(\"&\"+a))},D=function(){return\"function\"==typeof window.__onGCastApiAvailable?window.__onGCastApiAvailable:null},F=function(a){a.length?E(a.shift(),function(){F(a)}):G()},H=function(a){return\"chrome-extension://\"+a+\"/cast_sender.js\"},E=function(a,b,e){var c=document.createElement(\"script\");\nc.onerror=b;e&&(c.onload=e);if(void 0===x)if(b=null,(e=m.trustedTypes)&&e.createPolicy){try{b=e.createPolicy(\"goog#html\",{createHTML:t,createScript:t,createScriptURL:t})}catch(y){m.console&&m.console.error(y.message)}x=b}else x=b;a=(b=x)?b.createScriptURL(a):a;a=new A(a,z);a:{try{var g=c&&c.ownerDocument,k=g&&(g.defaultView||g.parentWindow);k=k||m;if(k.Element&&k.Location){var f=k;break a}}catch(y){}f=null}if(f&&\"undefined\"!=typeof f.HTMLScriptElement&&(!c||!(c instanceof f.HTMLScriptElement)&&(c instanceof\nf.Location||c instanceof f.Element))){f=typeof c;if(\"object\"==f&&null!=c||\"function\"==f)try{var d=c.constructor.displayName||c.constructor.name||Object.prototype.toString.call(c)}catch(y){d=\"<object could not be stringified>\"}else d=void 0===c?\"undefined\":null===c?\"null\":typeof c;w(\"Argument is not a %s (or a non-Element, non-Location mock); got: %s\",\"HTMLScriptElement\",d)}a instanceof A&&a.constructor===A?d=a.g:(d=typeof a,w(\"expected object of type TrustedResourceUrl, got '\"+a+\"' of type \"+(\"object\"!=\nd?d:a?Array.isArray(a)?\"array\":d:\"null\")),d=\"type_error:TrustedResourceUrl\");c.src=d;(d=c.ownerDocument&&c.ownerDocument.defaultView)&&d!=m?d=q(d.document):(null===p&&(p=q(m.document)),d=p);d&&c.setAttribute(\"nonce\",d);(document.head||document.documentElement).appendChild(c)},I=function(){var a=B(),b=[];if(1<a){var e=a-1;b.push(\"//www.gstatic.com/eureka/clank/\"+a+\"/cast_sender.js\");b.push(\"//www.gstatic.com/eureka/clank/\"+e+\"/cast_sender.js\")}return b},G=function(){var a=D();a&&a(!1,\"No cast extension found\")},\nK=function(){if(J){var a=2,b=D(),e=function(){a--;0==a&&b&&b(!0)};window.__onGCastApiAvailable=e;E(\"//www.gstatic.com/cast/sdk/libs/sender/1.0/cast_framework.js\",G,e)}},J=C(\"loadCastFramework\")||C(\"loadCastApplicationFramework\"),L=[\"pkedcjkdefgpdelpbcmbmeomcjbeemfm\",\"enhhojjnijigcajfphajepfemndkmdlo\"];if(0<=window.navigator.userAgent.indexOf(\"Android\")&&0<=window.navigator.userAgent.indexOf(\"Chrome/\")&&window.navigator.presentation){if(60<=B()){K();var M=I();M.push(\"//www.gstatic.com/eureka/clank/cast_sender.js\");F(M)}}else if(!window.chrome||!window.navigator.presentation||0<=window.navigator.userAgent.indexOf(\"Edge\"))G();else if(89<=B()){K();var N=I(),O=N.push,P=O.apply,h=L.map(H),Q;if(h instanceof Array)Q=h;else{var R,S=\"undefined\"!=typeof Symbol&&Symbol.iterator&&h[Symbol.iterator];R=S?S.call(h):\n{next:l()};for(var T,U=[];!(T=R.next()).done;)U.push(T.value);Q=U}P.call(O,N,Q);N.push(\"//www.gstatic.com/eureka/clank/cast_sender.js\");F(N)}else K(),F(L.map(H));}).call(this);\n"
+    }
+  }
+]

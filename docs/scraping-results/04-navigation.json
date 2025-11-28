@@ -1,0 +1,82 @@
+[
+  {
+    "href": "https://coefont.cloud/sso?route=%2Fhome",
+    "text": "SSO でログイン"
+  },
+  {
+    "href": "https://coefont.cloud/resetPassword",
+    "text": "パスワードを忘れた場合"
+  },
+  {
+    "href": "https://coefont.cloud/selectPlan?route=%2Fhome",
+    "text": "新規登録"
+  },
+  {
+    "href": "https://coefont.cloud/home",
+    "text": "ホームへ戻る"
+  },
+  {
+    "href": "https://coefont.cloud/login",
+    "text": "ログイン"
+  },
+  {
+    "href": "https://coefont.cloud/",
+    "text": ""
+  },
+  {
+    "href": "https://coefont.cloud/selectPlan",
+    "text": "料金プラン"
+  },
+  {
+    "href": "https://coefont.cloud/cir",
+    "text": "CoeFont通訳"
+  },
+  {
+    "href": "https://coefont.cloud/vc",
+    "text": "ボイスチェンジャー"
+  },
+  {
+    "href": "https://coefont.cloud/plusEnquiry",
+    "text": "営業に問い合わせる"
+  },
+  {
+    "href": "https://coefont.cloud/register/free",
+    "text": "今すぐお試し"
+  },
+  {
+    "href": "https://coefont.cloud/register/free?route=%2Fhome",
+    "text": "始める"
+  },
+  {
+    "href": "https://coefont.cloud/register/standard?route=%2Fhome",
+    "text": "無料で試す"
+  },
+  {
+    "href": "https://coefont.cloud/register/plus/card",
+    "text": "無料で試す"
+  },
+  {
+    "href": "https://coefont.cloud/coefonts/3f84b7b1-30fb-4677-a704-fd136515303e",
+    "text": "この声を使う"
+  },
+  {
+    "href": "https://coefont.cloud/coefonts/33e0a2ff-5050-434c-9506-defe97e52f15",
+    "text": "この声を使う"
+  },
+  {
+    "href": "https://coefont.cloud/coefonts",
+    "text": "AI音声一覧"
+  },
+  {
+    "href": "https://coefont.cloud/faq",
+    "text": "よくある質問"
+  },
+  {
+    "href": "https://coefont.cloud/casestudy",
+    "text": "事例紹介"
+  },
+  {
+    "href": "https://coefont.cloud/character",
+    "text": "キャラクター"
+  }
+]

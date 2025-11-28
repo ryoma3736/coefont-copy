@@ -1,0 +1,143 @@
+{
+  "timestamp": "2025-11-28T04:47:17.839Z",
+  "totalPages": 16,
+  "totalApis": 86,
+  "totalForms": 2,
+  "totalButtons": 29,
+  "totalNavigationLinks": 21,
+  "totalCssClasses": 151,
+  "totalErrors": 1,
+  "authSuccess": false,
+  "authAttempts": 3,
+  "pages": [
+    {
+      "name": "home",
+      "url": "https://coefont.cloud/home",
+      "links": 3,
+      "buttons": 7,
+      "forms": 0
+    },
+    {
+      "name": "dashboard",
+      "url": "https://coefont.cloud/dashboard",
+      "links": 1,
+      "buttons": 0,
+      "forms": 0
+    },
+    {
+      "name": "studio",
+      "url": "https://coefont.cloud/studio",
+      "links": 1,
+      "buttons": 0,
+      "forms": 0
+    },
+    {
+      "name": "fonts",
+      "url": "https://coefont.cloud/fonts",
+      "links": 1,
+      "buttons": 0,
+      "forms": 0
+    },
+    {
+      "name": "mypage",
+      "url": "https://coefont.cloud/mypage",
+      "links": 1,
+      "buttons": 0,
+      "forms": 0
+    },
+    {
+      "name": "settings",
+      "url": "https://coefont.cloud/settings",
+      "links": 1,
+      "buttons": 0,
+      "forms": 0
+    },
+    {
+      "name": "pricing",
+      "url": "https://coefont.cloud/pricing",
+      "links": 1,
+      "buttons": 0,
+      "forms": 0
+    },
+    {
+      "name": "terms",
+      "url": "https://coefont.cloud/terms",
+      "links": 1,
+      "buttons": 0,
+      "forms": 0
+    },
+    {
+      "name": "privacy",
+      "url": "https://coefont.cloud/privacy",
+      "links": 1,
+      "buttons": 0,
+      "forms": 0
+    },
+    {
+      "name": "help",
+      "url": "https://coefont.cloud/help",
+      "links": 1,
+      "buttons": 0,
+      "forms": 0
+    },
+    {
+      "name": "contact",
+      "url": "https://coefont.cloud/contact",
+      "links": 1,
+      "buttons": 0,
+      "forms": 0
+    },
+    {
+      "name": "resetPassword",
+      "url": "https://coefont.cloud/resetPassword",
+      "links": 1,
+      "buttons": 3,
+      "forms": 0
+    },
+    {
+      "name": "sso",
+      "url": "https://coefont.cloud/sso",
+      "links": 0,
+      "buttons": 3,
+      "forms": 1
+    },
+    {
+      "name": "sso",
+      "url": "https://coefont.cloud/sso?route=%2Fhome",
+      "links": 0,
+      "buttons": 3,
+      "forms": 1
+    },
+    {
+      "name": "selectPlan",
+      "url": "https://coefont.cloud/selectPlan?route=%2Fhome",
+      "links": 34,
+      "buttons": 6,
+      "forms": 0
+    },
+    {
+      "name": "login",
+      "url": "https://coefont.cloud/login",
+      "links": 3,
+      "buttons": 7,
+      "forms": 0
+    }
+  ],
+  "uniqueApiEndpoints": [
+    "POST /monitoring",
+    "DELETE /api/auth/session",
+    "GET /v1/projects",
+    "GET /identitytoolkit/v3/relyingparty/getProjectConfig",
+    "GET /cv/js/sender/v1/cast_sender.js",
+    "POST /$rpc/google.internal.waa.v1.Waa/GenerateIT",
+    "POST /youtubei/v1/log_event",
+    "POST /api/stats/atr"
+  ],
+  "memoryUsage": {
+    "rss": 209289216,
+    "heapTotal": 148848640,
+    "heapUsed": 91899736,
+    "external": 8612374,
+    "arrayBuffers": 6128119
+  }
+}

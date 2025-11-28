@@ -1,0 +1,7 @@
+[
+  {
+    "page": "selectPlan",
+    "url": "https://coefont.cloud/selectPlan",
+    "error": "page.goto: Timeout 60000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://coefont.cloud/selectPlan\", waiting until \"networkidle\"\u001b[22m\n"
+  }
+]

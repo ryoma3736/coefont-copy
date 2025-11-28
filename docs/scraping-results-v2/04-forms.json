@@ -1,0 +1,42 @@
+[
+  {
+    "id": "",
+    "action": "https://coefont.cloud/sso",
+    "method": "get",
+    "name": "",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "メールアドレス",
+        "required": false,
+        "pattern": "",
+        "minLength": -1,
+        "maxLength": -1
+      }
+    ],
+    "foundOn": "sso"
+  },
+  {
+    "id": "",
+    "action": "https://coefont.cloud/sso?route=%2Fhome",
+    "method": "get",
+    "name": "",
+    "inputs": [
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "メールアドレス",
+        "required": false,
+        "pattern": "",
+        "minLength": -1,
+        "maxLength": -1
+      }
+    ],
+    "foundOn": "sso"
+  }
+]

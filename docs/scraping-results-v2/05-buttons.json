@@ -1,0 +1,443 @@
+[
+  {
+    "tag": "button",
+    "type": "submit",
+    "text": "トップページへ",
+    "id": "",
+    "classes": [
+      "Header_headerLeft__LAbYZ",
+      "Button_button__wfofQ",
+      "Button_buttonBase__2juIe",
+      "Button_lg__ll6C_",
+      "Button_text__HvhbT"
+    ],
+    "disabled": false,
+    "ariaLabel": null,
+    "foundOn": "home"
+  },
+  {
+    "tag": "button",
+    "type": "submit",
+    "text": "Googleでログイン",
+    "id": "google-submit",
+    "classes": [
+      "SSOSubmit_btn__ondxC",
+      "SSOSubmit_google__vdaNq",
+      "Button_button__wfofQ",
+      "Button_buttonBase__2juIe",
+      "Button_lg__ll6C_",
+      "Button_fill__X9ePS"
+    ],
+    "disabled": false,
+    "ariaLabel": null,
+    "foundOn": "home"
+  },
+  {
+    "tag": "button",
+    "type": "submit",
+    "text": "Appleでログイン",
+    "id": "apple-submit",
+    "classes": [
+      "SSOSubmit_btn__ondxC",
+      "SSOSubmit_apple__lhH7o",
+      "Button_button__wfofQ",
+      "Button_buttonBase__2juIe",
+      "Button_lg__ll6C_",
+      "Button_fill__X9ePS"
+    ],
+    "disabled": false,
+    "ariaLabel": null,
+    "foundOn": "home"
+  },
+  {
+    "tag": "button",
+    "type": "submit",
+    "text": "Facebookでログイン",
+    "id": "facebook-submit",
+    "classes": [
+      "SSOSubmit_btn__ondxC",
+      "SSOSubmit_facebook__mP4jv",
+      "Button_button__wfofQ",
+      "Button_buttonBase__2juIe",
+      "Button_lg__ll6C_",
+      "Button_fill__X9ePS"
+    ],
+    "disabled": false,
+    "ariaLabel": null,
+    "foundOn": "home"
+  },
+  {
+    "tag": "button",
+    "type": "submit",
+    "text": "",
+    "id": "",
+    "classes": [
+      "IconButton_button__K3OF1"
+    ],
+    "disabled": false,
+    "ariaLabel": null,
+    "foundOn": "home"
+  },
+  {
+    "tag": "button",
+    "type": "submit",
+    "text": "ログイン",
+    "id": "mail_submit",
+    "classes": [
+      "Button_button__wfofQ",
+      "Button_buttonBase__2juIe",
+      "Button_lg__ll6C_",
+      "Button_fill__X9ePS",
+      "Button_block__NrstN"
+    ],
+    "disabled": false,
+    "ariaLabel": null,
+    "foundOn": "home"
+  },
+  {
+    "tag": "button",
+    "type": "button",
+    "text": "日本語",
+    "id": "",
+    "classes": [
+      "Select_trigger__J072j"
+    ],
+    "disabled": false,
+    "ariaLabel": null,
+    "foundOn": "home"
+  },
+  {
+    "tag": "button",
+    "type": "submit",
+    "text": "トップページへ",
+    "id": "",
+    "classes": [
+      "Header_headerLeft__LAbYZ",
+      "Button_button__wfofQ",
+      "Button_buttonBase__2juIe",
+      "Button_lg__ll6C_",
+      "Button_text__HvhbT"
+    ],
+    "disabled": false,
+    "ariaLabel": null,
+    "foundOn": "resetPassword"
+  },
+  {
+    "tag": "button",
+    "type": "submit",
+    "text": "メールを送信",
+    "id": "",
+    "classes": [
+      "Button_button__wfofQ",
+      "Button_buttonBase__2juIe",
+      "Button_lg__ll6C_",
+      "Button_fill__X9ePS",
+      "Button_block__NrstN"
+    ],
+    "disabled": true,
+    "ariaLabel": null,
+    "foundOn": "resetPassword"
+  },
+  {
+    "tag": "button",
+    "type": "button",
+    "text": "日本語",
+    "id": "",
+    "classes": [
+      "Select_trigger__J072j"
+    ],
+    "disabled": false,
+    "ariaLabel": null,
+    "foundOn": "resetPassword"
+  },
+  {
+    "tag": "button",
+    "type": "submit",
+    "text": "トップページへ",
+    "id": "",
+    "classes": [
+      "Header_headerLeft__LAbYZ",
+      "Button_button__wfofQ",
+      "Button_buttonBase__2juIe",
+      "Button_lg__ll6C_",
+      "Button_text__HvhbT"
+    ],
+    "disabled": false,
+    "ariaLabel": null,
+    "foundOn": "sso"
+  },
+  {
+    "tag": "button",
+    "type": "submit",
+    "text": "SAML SSO でログイン",
+    "id": "",
+    "classes": [
+      "Button_button__wfofQ",
+      "Button_buttonBase__2juIe",
+      "Button_lg__ll6C_",
+      "Button_fill__X9ePS",
+      "Button_block__NrstN"
+    ],
+    "disabled": false,
+    "ariaLabel": null,
+    "foundOn": "sso"
+  },
+  {
+    "tag": "button",
+    "type": "button",
+    "text": "日本語",
+    "id": "",
+    "classes": [
+      "Select_trigger__J072j"
+    ],
+    "disabled": false,
+    "ariaLabel": null,
+    "foundOn": "sso"
+  },
+  {
+    "tag": "button",
+    "type": "submit",
+    "text": "トップページへ",
+    "id": "",
+    "classes": [
+      "Header_headerLeft__LAbYZ",
+      "Button_button__wfofQ",
+      "Button_buttonBase__2juIe",
+      "Button_lg__ll6C_",
+      "Button_text__HvhbT"
+    ],
+    "disabled": false,
+    "ariaLabel": null,
+    "foundOn": "sso"
+  },
+  {
+    "tag": "button",
+    "type": "submit",
+    "text": "SAML SSO でログイン",
+    "id": "",
+    "classes": [
+      "Button_button__wfofQ",
+      "Button_buttonBase__2juIe",
+      "Button_lg__ll6C_",
+      "Button_fill__X9ePS",
+      "Button_block__NrstN"
+    ],
+    "disabled": false,
+    "ariaLabel": null,
+    "foundOn": "sso"
+  },
+  {
+    "tag": "button",
+    "type": "button",
+    "text": "日本語",
+    "id": "",
+    "classes": [
+      "Select_trigger__J072j"
+    ],
+    "disabled": false,
+    "ariaLabel": null,
+    "foundOn": "sso"
+  },
+  {
+    "tag": "button",
+    "type": "submit",
+    "text": "サンプルを再生",
+    "id": "",
+    "classes": [
+      "SampleVoices_playButton__Yu5JA",
+      "Button_button__wfofQ",
+      "Button_buttonBase__2juIe",
+      "Button_lg__ll6C_",
+      "Button_fill__X9ePS",
+      "Button_block__NrstN"
+    ],
+    "disabled": false,
+    "ariaLabel": null,
+    "foundOn": "selectPlan"
+  },
+  {
+    "tag": "button",
+    "type": "submit",
+    "text": "この声を使う",
+    "id": "",
+    "classes": [
+      "Button_button__wfofQ",
+      "Button_buttonBase__2juIe",
+      "Button_lg__ll6C_",
+      "Button_fill__X9ePS",
+      "Button_block__NrstN"
+    ],
+    "disabled": false,
+    "ariaLabel": null,
+    "foundOn": "selectPlan"
+  },
+  {
+    "tag": "button",
+    "type": "submit",
+    "text": "サンプルを再生",
+    "id": "",
+    "classes": [
+      "SampleVoices_playButton__Yu5JA",
+      "Button_button__wfofQ",
+      "Button_buttonBase__2juIe",
+      "Button_lg__ll6C_",
+      "Button_fill__X9ePS",
+      "Button_block__NrstN"
+    ],
+    "disabled": false,
+    "ariaLabel": null,
+    "foundOn": "selectPlan"
+  },
+  {
+    "tag": "button",
+    "type": "submit",
+    "text": "この声を使う",
+    "id": "",
+    "classes": [
+      "Button_button__wfofQ",
+      "Button_buttonBase__2juIe",
+      "Button_lg__ll6C_",
+      "Button_fill__X9ePS",
+      "Button_block__NrstN"
+    ],
+    "disabled": false,
+    "ariaLabel": null,
+    "foundOn": "selectPlan"
+  },
+  {
+    "tag": "button",
+    "type": "submit",
+    "text": "サンプルを再生",
+    "id": "",
+    "classes": [
+      "SampleVoices_playButton__Yu5JA",
+      "Button_button__wfofQ",
+      "Button_buttonBase__2juIe",
+      "Button_lg__ll6C_",
+      "Button_fill__X9ePS",
+      "Button_block__NrstN"
+    ],
+    "disabled": false,
+    "ariaLabel": null,
+    "foundOn": "selectPlan"
+  },
+  {
+    "tag": "button",
+    "type": "button",
+    "text": "日本語",
+    "id": "",
+    "classes": [
+      "Select_trigger__J072j"
+    ],
+    "disabled": false,
+    "ariaLabel": null,
+    "foundOn": "selectPlan"
+  },
+  {
+    "tag": "button",
+    "type": "submit",
+    "text": "トップページへ",
+    "id": "",
+    "classes": [
+      "Header_headerLeft__LAbYZ",
+      "Button_button__wfofQ",
+      "Button_buttonBase__2juIe",
+      "Button_lg__ll6C_",
+      "Button_text__HvhbT"
+    ],
+    "disabled": false,
+    "ariaLabel": null,
+    "foundOn": "login"
+  },
+  {
+    "tag": "button",
+    "type": "submit",
+    "text": "Googleでログイン",
+    "id": "google-submit",
+    "classes": [
+      "SSOSubmit_btn__ondxC",
+      "SSOSubmit_google__vdaNq",
+      "Button_button__wfofQ",
+      "Button_buttonBase__2juIe",
+      "Button_lg__ll6C_",
+      "Button_fill__X9ePS"
+    ],
+    "disabled": false,
+    "ariaLabel": null,
+    "foundOn": "login"
+  },
+  {
+    "tag": "button",
+    "type": "submit",
+    "text": "Appleでログイン",
+    "id": "apple-submit",
+    "classes": [
+      "SSOSubmit_btn__ondxC",
+      "SSOSubmit_apple__lhH7o",
+      "Button_button__wfofQ",
+      "Button_buttonBase__2juIe",
+      "Button_lg__ll6C_",
+      "Button_fill__X9ePS"
+    ],
+    "disabled": false,
+    "ariaLabel": null,
+    "foundOn": "login"
+  },
+  {
+    "tag": "button",
+    "type": "submit",
+    "text": "Facebookでログイン",
+    "id": "facebook-submit",
+    "classes": [
+      "SSOSubmit_btn__ondxC",
+      "SSOSubmit_facebook__mP4jv",
+      "Button_button__wfofQ",
+      "Button_buttonBase__2juIe",
+      "Button_lg__ll6C_",
+      "Button_fill__X9ePS"
+    ],
+    "disabled": false,
+    "ariaLabel": null,
+    "foundOn": "login"
+  },
+  {
+    "tag": "button",
+    "type": "submit",
+    "text": "",
+    "id": "",
+    "classes": [
+      "IconButton_button__K3OF1"
+    ],
+    "disabled": false,
+    "ariaLabel": null,
+    "foundOn": "login"
+  },
+  {
+    "tag": "button",
+    "type": "submit",
+    "text": "ログイン",
+    "id": "mail_submit",
+    "classes": [
+      "Button_button__wfofQ",
+      "Button_buttonBase__2juIe",
+      "Button_lg__ll6C_",
+      "Button_fill__X9ePS",
+      "Button_block__NrstN"
+    ],
+    "disabled": false,
+    "ariaLabel": null,
+    "foundOn": "login"
+  },
+  {
+    "tag": "button",
+    "type": "button",
+    "text": "日本語",
+    "id": "",
+    "classes": [
+      "Select_trigger__J072j"
+    ],
+    "disabled": false,
+    "ariaLabel": null,
+    "foundOn": "login"
+  }
+]

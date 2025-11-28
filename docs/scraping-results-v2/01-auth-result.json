@@ -1,0 +1,62 @@
+{
+  "success": false,
+  "attempts": 3,
+  "formData": {
+    "inputs": [
+      {
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "メールアドレス",
+        "required": false,
+        "pattern": ""
+      },
+      {
+        "type": "password",
+        "name": "password",
+        "id": "",
+        "placeholder": "パスワード",
+        "required": false,
+        "pattern": ""
+      }
+    ],
+    "buttons": [
+      {
+        "type": "submit",
+        "text": "トップページへ",
+        "className": "Header_headerLeft__LAbYZ Button_button__wfofQ Button_buttonBase__2juIe Button_lg__ll6C_ Button_text__HvhbT"
+      },
+      {
+        "type": "submit",
+        "text": "Googleでログイン",
+        "className": "SSOSubmit_btn__ondxC SSOSubmit_google__vdaNq Button_button__wfofQ Button_buttonBase__2juIe Button_lg__ll6C_ Button_fill__X9ePS"
+      },
+      {
+        "type": "submit",
+        "text": "Appleでログイン",
+        "className": "SSOSubmit_btn__ondxC SSOSubmit_apple__lhH7o Button_button__wfofQ Button_buttonBase__2juIe Button_lg__ll6C_ Button_fill__X9ePS"
+      },
+      {
+        "type": "submit",
+        "text": "Facebookでログイン",
+        "className": "SSOSubmit_btn__ondxC SSOSubmit_facebook__mP4jv Button_button__wfofQ Button_buttonBase__2juIe Button_lg__ll6C_ Button_fill__X9ePS"
+      },
+      {
+        "type": "submit",
+        "text": "",
+        "className": "IconButton_button__K3OF1"
+      },
+      {
+        "type": "submit",
+        "text": "ログイン",
+        "className": "Button_button__wfofQ Button_buttonBase__2juIe Button_lg__ll6C_ Button_fill__X9ePS Button_block__NrstN"
+      },
+      {
+        "type": "button",
+        "text": "日本語",
+        "className": "Select_trigger__J072j"
+      }
+    ]
+  },
+  "error": "Max retries reached"
+}
